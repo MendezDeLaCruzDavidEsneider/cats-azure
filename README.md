@@ -1,16 +1,5 @@
-# React + Vite
+CATS es una aplicación web desarrollada con React que permite a los usuarios explorar y visualizar contenido relacionado con gatos de manera interactiva y dinámica. La plataforma ofrece una experiencia completa en la que se pueden ver imágenes, reproducir videos y acceder a archivos en formato PDF que contienen información detallada sobre cada gato.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Además, la aplicación incluye un sistema de interacción basado en corazones ❤️, donde los usuarios pueden marcar sus gatos favoritos. Esta funcionalidad permite identificar fácilmente cuáles son los gatos que más les gustan, mejorando la experiencia de navegación y personalización dentro de la plataforma.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+El objetivo principal de CATS es centralizar diferentes tipos de contenido multimedia en un solo lugar, ofreciendo una interfaz amigable y organizada que facilita el acceso a la información y fomenta la interacción del usuario.
