@@ -1,6 +1,5 @@
 export const STORAGE_URL = import.meta.env.VITE_AZURE_STORAGE_URL;
-console.log("DEBUG ENV:", import.meta.env);
-console.log("STORAGE_URL:", STORAGE_URL);
+console.log("STORAGE_URL:", import.meta.env.VITE_AZURE_STORAGE_URL);
 
 export function getImageUrl(file) {
 
