@@ -1,6 +1,9 @@
 export const STORAGE_URL = import.meta.env.VITE_AZURE_STORAGE_URL;
 
+
+
 export function getImageUrl(file) {
+    
     return `${STORAGE_URL}/cats/${file}`;
 }
 
